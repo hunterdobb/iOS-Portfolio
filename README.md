@@ -20,3 +20,15 @@ I built this app to help plasma donors keep track of their donations. Users can 
 * Core Data
 * CloudKit to sync donations across devices (In-progress)
 * Followed the MVVM design paradigm.
+
+## [Magic Times for Disney World](https://apps.apple.com/us/app/magic-times-theme-park-planner/id6502660380)
+
+I built this app to makes it fast and easy to explore more than 950 attractions, entertainment, shops, and dining locations across Disney World Resort.
+
+![MagicTimesPortfolioImages 001](https://github.com/hunterdobb/iOS-Portfolio/assets/6664220/f7b614b1-37f4-4067-a743-2ef97cacfc54)
+
+#### Technologies Used
+* SwiftUI
+* Core Data
+* CloudKit to host all the data for points of interest
+* Followed the MVVM design paradigm.
